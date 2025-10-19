@@ -1,0 +1,25 @@
+
+.each-email-subject{
+    color:darkblue;
+    font-weight: 600;
+
+}
+.each-email-body{
+    background-color: rgb(173, 203, 211);
+    color:darkmagenta;
+    font-weight: 500;
+    padding-top:33px;
+    padding-bottom: 33px;
+    min-height: max-content;
+    height:100px;
+    
+}
+.ai-reply{
+    background-color: aliceblue;
+    font-weight: 600;
+    color: fuchsia;
+}
+.email{
+    color:darkred;
+    font-weight: 600;
+}

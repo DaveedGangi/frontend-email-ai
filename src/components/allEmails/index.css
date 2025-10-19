@@ -1,0 +1,22 @@
+
+
+.each-email{
+    margin-bottom: 12px;
+    background-color: darkturquoise;
+    color:crimson;
+    font-weight: 600;
+    padding:12px;
+    box-shadow: 3px 2px 3px 1px rgb(199, 214, 199);
+}
+.input-search{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width:240px;
+    height:35px;
+    color:aliceblue;
+    background-color: black;
+    margin-bottom: 23px;
+    padding-left: 8px;
+
+}

@@ -1,0 +1,10 @@
+
+.home-page{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.home-heading{
+    color:cornflowerblue;
+    font-weight: 600;
+}
