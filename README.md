@@ -1,4 +1,4 @@
-#Fetures 
+# Fetures 
 
 fetching email data from local backend json file 
 Generates a ai poweeded reply suggestion by using open ai 
@@ -36,6 +36,8 @@ node index.js
 server is running on 5000 you will see
 
 if you want test use "http://localhost:5000/emails" 
+
+here is my deployed link backend : https://backend-email-ai-daveed.onrender.com
 instead deployed link of backend on frontend side 
 
 author

@@ -21,7 +21,7 @@ function EachEmail(){
          }
          const fetchReply=async()=>{
             setLoader(true);
-            const replyFetch=await fetch (`http://localhost:5000/email/${id}/reply`);
+            const replyFetch=await fetch (`https://backend-email-ai-daveed.onrender.com/email/${id}/reply`);
             const responsed=await replyFetch.json();
             console.log(responsed);
             setReply(responsed);
